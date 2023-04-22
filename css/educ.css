@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Merriweather', sans-serif;
+}
+
+
+/* HEADER */
+
+.navigationBar{
+    height: 70px;
+    /* background-color: rgb(90, 90, 90); */
+}
+
+.head-content{
+    grid-gap: 1.4vh;
+}
+
+.navbar a{
+    color: white;
+    font-size: .9rem;
+}
+
+.nav a:hover{
+    color: rgb(203, 203, 203);
+}
+
+/* MAIN */
+
+.main{
+    /* height: 100vh; */
+    width: 100%;
+}
+
+.card p{
+    margin-top: 20px;
+    text-align: justify;
+    font-size: .8rem;
+}
+
+.card .card-body{
+    /* background: rgb(236, 236, 236); */
+    height: 25vh;
+    border-radius: 5px;
+}
+
+.card-text{
+    font-size: .9rem;
+}

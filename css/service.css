@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Merriweather', sans-serif;
+}
+
+/* HEADER */
+
+.navbar a{
+    /* color: white; */
+    font-size: .9rem;
+}
+
+.nav a:hover{
+    color: rgb(203, 203, 203);
+}
+
+
+h5{
+    letter-spacing: 4px;
+}
+
+.row .card{
+    text-align: justify;
+    margin-top: 10px;
+}
+
+.card p{
+    margin-top: 15px;
+}
